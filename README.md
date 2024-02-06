@@ -5,7 +5,13 @@
 
 - 🌱 I’m currently learning **javascript**
 
+- Playing with Java codes **all the time**
+
+- Solved 200+ DSA problems **on leetcode and GfG**
+
 - Contact me:- **ps7704055696@gmail.com**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
