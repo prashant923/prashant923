@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm Prashant singh</h1>
-<h3 align="center">A passionate frontend developer and java coder from India</h3>
+<h3 align="center">A passionate Java DSA Coder & Problem Solver</h3>
+
+- Mastering **Data Structures & Algorithms**
 
 - 🌱 I’m currently learning **javascript**
 
-- 💬 Ask me about **java, AI|Ml**
-
-- 📫 How to reach me **ps7704055696@gmail.com**
+- Contact me:- **ps7704055696@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/prashantsi3162" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prashantsi3162" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/prashant singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prashant singh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/prashantsingh_1398" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prashantsingh_1398" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/prashant1398" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prashant1398" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/ps202ao1w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ps202ao1w" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
