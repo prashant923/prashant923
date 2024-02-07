@@ -4,7 +4,7 @@
 - Mastering **Data Structures & Algorithms**
 
 - 🌱 I’m currently learning **javascript**
-
+- Learning every moment and sharing my progress on my linkedin 
 - Playing with Java codes **all the time**
 
 - Solved 200+ DSA problems **on leetcode and GfG**
