@@ -4,12 +4,13 @@
 - Mastering **Data Structures & Algorithms**
 
 - 🌱 I’m currently learning **javascript**
-- Learning every moment and sharing my progress on my linkedin 
+- Learning every moment and sharing my progress on my linkedin & twitter
 - Playing with Java codes **all the time**
 
 - Solved 200+ DSA problems **on leetcode and GfG**
 
 - Contact me:- **ps7704055696@gmail.com**
+- 
 
 
 
