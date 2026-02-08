@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Prashant singh</h1>
-<h3 align="center">A passionate Java DSA Coder & Problem Solver</h3>
+<h3 align="center">A passionate Java DSA Coder & Problem Solver  SDE1 @MAQ Software</h3>
 
 - Mastering **Data Structures & Algorithms**
-
-- 🌱 I’m currently learning **javascript**
 - Learning every moment and sharing my progress on my linkedin & twitter
 - Playing with Java codes **all the time**
 
 - Solved 200+ DSA problems **on leetcode and GfG**
 
-- Contact me:- **ps7704055696@gmail.com**
+- Contact me:- **prashantwork1398@gmail.com**
 - 
 
 
